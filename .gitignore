@@ -1,0 +1,121 @@
+# Project exclude paths
+/.gradle/
+/Steganography and Cryptography/task/build/
+/Steganography and Cryptography/task/out/production/classes/
+/Steganography and Cryptography/task/out/test/classes/
+/Topics/Arrays/Initializing an array/out/
+/Topics/Arrays/Initializing an array/out/production/classes/
+/Topics/Arrays/Printing the last element/out/
+/Topics/Arrays/Printing the last element/out/production/classes/
+/Topics/Arrays/Swap elements/out/
+/Topics/Arrays/Swap elements/out/production/classes/
+/Topics/Arrays/Theory/out/
+/Topics/Arrays/Theory/out/production/classes/
+/Topics/BigDecimal/Deposit/out/
+/Topics/BigDecimal/Deposit/out/production/classes/
+/Topics/BigDecimal/Initialization/out/
+/Topics/BigDecimal/Initialization/out/production/classes/
+/Topics/BigDecimal/Multiplication/out/
+/Topics/BigDecimal/Multiplication/out/production/classes/
+/Topics/BigDecimal/Theory/out/
+/Topics/BigDecimal/Theory/out/production/classes/
+/Topics/BigInteger/Division/out/
+/Topics/BigInteger/Division/out/production/classes/
+/Topics/BigInteger/Max/out/
+/Topics/BigInteger/Max/out/production/classes/
+/Topics/BigInteger/Simple expression/out/
+/Topics/BigInteger/Simple expression/out/production/classes/
+/Topics/BigInteger/Statements/out/
+/Topics/BigInteger/Statements/out/production/classes/
+/Topics/BigInteger/Theory/out/
+/Topics/BigInteger/Theory/out/production/classes/
+/Topics/Functions as objects/First predicate/out/
+/Topics/Functions as objects/First predicate/out/production/classes/
+/Topics/Functions as objects/First-class citizen/out/
+/Topics/Functions as objects/First-class citizen/out/production/classes/
+/Topics/Functions as objects/Function generator/out/
+/Topics/Functions as objects/Function generator/out/production/classes/
+/Topics/Functions as objects/Kotlin function type/out/
+/Topics/Functions as objects/Kotlin function type/out/production/classes/
+/Topics/Functions as objects/Theory/out/
+/Topics/Functions as objects/Theory/out/production/classes/
+/Topics/Image colors/Print color/out/
+/Topics/Image colors/Print color/out/production/classes/
+/Topics/Image colors/Theory/out/
+/Topics/Image colors/Theory/out/production/classes/
+/Topics/Image libraries/Drawing two lines/out/
+/Topics/Image libraries/Drawing two lines/out/production/classes/
+/Topics/Image libraries/Theory/out/
+/Topics/Image libraries/Theory/out/production/classes/
+/Topics/Jumps and returns/Beyond the word/out/
+/Topics/Jumps and returns/Beyond the word/out/production/classes/
+/Topics/Jumps and returns/Correct jumping/out/
+/Topics/Jumps and returns/Correct jumping/out/production/classes/
+/Topics/Jumps and returns/First digit/out/
+/Topics/Jumps and returns/First digit/out/production/classes/
+/Topics/Jumps and returns/Theory/out/
+/Topics/Jumps and returns/Theory/out/production/classes/
+/Topics/Lambda expressions/Function composition/out/
+/Topics/Lambda expressions/Function composition/out/production/classes/
+/Topics/Lambda expressions/Range multiplication/out/
+/Topics/Lambda expressions/Range multiplication/out/production/classes/
+/Topics/Lambda expressions/Theory/out/
+/Topics/Lambda expressions/Theory/out/production/classes/
+/Topics/List/Even numbers/out/
+/Topics/List/Even numbers/out/production/classes/
+/Topics/List/It's all about the List/out/
+/Topics/List/It's all about the List/out/production/classes/
+/Topics/List/The second of T/out/
+/Topics/List/The second of T/out/production/classes/
+/Topics/List/Theory/out/
+/Topics/List/Theory/out/production/classes/
+/Topics/Multi-dimensional array/Cube of zeros/out/
+/Topics/Multi-dimensional array/Cube of zeros/out/production/classes/
+/Topics/Multi-dimensional array/Kotlin arrays/out/
+/Topics/Multi-dimensional array/Kotlin arrays/out/production/classes/
+/Topics/Multi-dimensional array/Shapeshifter/out/
+/Topics/Multi-dimensional array/Shapeshifter/out/production/classes/
+/Topics/Multi-dimensional array/Theory/out/
+/Topics/Multi-dimensional array/Theory/out/production/classes/
+/Topics/String arrays/Guard On The Gate/out/
+/Topics/String arrays/Guard On The Gate/out/production/classes/
+/Topics/String arrays/Initialization/out/
+/Topics/String arrays/Initialization/out/production/classes/
+/Topics/String arrays/Printing an array/out/
+/Topics/String arrays/Printing an array/out/production/classes/
+/Topics/String arrays/Theory/out/
+/Topics/String arrays/Theory/out/production/classes/
+/Topics/String formatting/Dynamic Double formatting/out/
+/Topics/String formatting/Dynamic Double formatting/out/production/classes/
+/Topics/String formatting/Format Double with a comma and 2 decimal digits/out/
+/Topics/String formatting/Format Double with a comma and 2 decimal digits/out/production/classes/
+/Topics/String formatting/Octal and hexadecimal/out/
+/Topics/String formatting/Octal and hexadecimal/out/production/classes/
+/Topics/String formatting/Theory/out/
+/Topics/String formatting/Theory/out/production/classes/
+/Topics/String formatting/Valid format specifiers/out/
+/Topics/String formatting/Valid format specifiers/out/production/classes/
+/Topics/Type conversion/Converting to Byte/out/
+/Topics/Type conversion/Converting to Byte/out/production/classes/
+/Topics/Type conversion/Cutting the fraction/out/
+/Topics/Type conversion/Cutting the fraction/out/production/classes/
+/Topics/Type conversion/Lie detector/out/
+/Topics/Type conversion/Lie detector/out/production/classes/
+/Topics/Type conversion/Overflow and crash/out/
+/Topics/Type conversion/Overflow and crash/out/production/classes/
+/Topics/Type conversion/Theory/out/
+/Topics/Type conversion/Theory/out/production/classes/
+/Topics/When expression/Direction/out/
+/Topics/When expression/Direction/out/production/classes/
+/Topics/When expression/Floor-space of the room/out/
+/Topics/When expression/Floor-space of the room/out/production/classes/
+/Topics/When expression/From string to a number/out/
+/Topics/When expression/From string to a number/out/production/classes/
+/Topics/When expression/Strings as objects/out/
+/Topics/When expression/Strings as objects/out/production/classes/
+/Topics/When expression/The number of digits/out/
+/Topics/When expression/The number of digits/out/production/classes/
+/Topics/When expression/Theory/out/
+/Topics/When expression/Theory/out/production/classes/
+/Topics/Writing files/Theory/out/
+/Topics/Writing files/Theory/out/production/classes/
